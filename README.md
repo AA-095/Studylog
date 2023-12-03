@@ -1,5 +1,5 @@
 # DI
-- DI(Depandency Inhection)はオブジェクトの注入という意味
+- DI(Dependency Injection)はオブジェクトの注入という意味
 - DIはパターン、DIコンテナはDI実現を手伝うためのフレームワークである。
 
  ## DIコンテナのメリット
